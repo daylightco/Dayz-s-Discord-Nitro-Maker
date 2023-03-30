@@ -21,14 +21,6 @@
 - Custom Thread
 - Send hit to webhook
 
-##   
-
-### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/kaneki
-
-##  
-
 ### 📜 License & Warning
 - Make for education propose only
 - Under licensed MIT MIT License.
